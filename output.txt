@@ -1,0 +1,22 @@
+Java time: 0.05424125 seconds
+My time: 0.039133458 seconds
+Java Collision Count: 2588
+My Collision Count: 2481
+
+input: qiewuro 0
+
+input: ssrab 1 [brass]
+
+input: oflg 1 [flog]
+
+input: equiye 0
+
+input: stair 1 [stair]
+
+input: arts 1 [star]
+
+input: ueenq 1 [queen]
+
+input: aaeilor 0
+
+input: plicablexe 1 [explicable]
